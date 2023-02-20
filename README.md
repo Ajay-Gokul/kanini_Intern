@@ -1,2 +1,2 @@
-# kan_Intern
+# kanini_Intern
 Training
